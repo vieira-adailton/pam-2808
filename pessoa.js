@@ -44,4 +44,7 @@ const adailton = {
     idade: 27,
     data_nasc: '3 de out',
     hobbies: 'jogar, ler, assistir',
+    ler: function(){
+        return console.log(`O usuário lê mangá, manhwa, livros do genêro fantasia`)
+    }
 }
